@@ -1,6 +1,8 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [About this Document](README.md)
+* [What is MyProduct?](what-is-myproduct/README.md)
+  * [Keyboard Shortcuts](what-is-myproduct/keyboard-shortcuts.md)
 
 ## Guides
 
@@ -25,9 +27,3 @@
   * [Intercom Integration](use-cases/for-support/intercom-integration.md)
 
 ## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
-
-***
-
-* [About this Document](about-this-document.md)
