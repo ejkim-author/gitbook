@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/그림2.jpg
+coverY: 0
+---
+
 # What is MyProduct?
 
 {% hint style="info" %}
@@ -5,6 +10,10 @@
 {% endhint %}
 
 Here are a couple of examples of succinct overviews from products with really great docs:
+
+![](<.gitbook/assets/그림3 (1).png>)
+
+
 
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 >
