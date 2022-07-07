@@ -11,9 +11,7 @@ coverY: 0
 
 Here are a couple of examples of succinct overviews from products with really great docs:
 
-![](<../.gitbook/assets/그림3 (1).png>)
-
-
+![](../.gitbook/assets/그림3.png)
 
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 >
