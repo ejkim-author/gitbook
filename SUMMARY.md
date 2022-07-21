@@ -9,8 +9,7 @@
 
 ## Front Matter
 
-* [About this Document](front-matter/readme.md)
-* [Page 1](front-matter/page-1.md)
+* [About this Document](<README (1).md>)
 
 ## Guides
 
