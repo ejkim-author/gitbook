@@ -1,8 +1,16 @@
 # Table of contents
 
-* [About this Document](README.md)
-* [What is MyProduct?](what-is-myproduct/README.md)
+* [What is MyProduct?](README.md)
   * [Keyboard Shortcuts](what-is-myproduct/keyboard-shortcuts.md)
+
+## Cover Page
+
+* [홈파티 사용자 가이드](cover-page/undefined.md)
+
+## Front Matter
+
+* [About this Document](front-matter/readme.md)
+* [Page 1](front-matter/page-1.md)
 
 ## Guides
 
@@ -25,5 +33,3 @@
   * [GitHub Integration](use-cases/for-engineers/github-integration.md)
 * [For Support](use-cases/for-support/README.md)
   * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
